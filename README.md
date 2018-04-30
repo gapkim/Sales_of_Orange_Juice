@@ -6,3 +6,5 @@ In this study, the OJ dataset from the ISLR package has been analyzed. The datas
 ## File Description
 GitHub_Proj10.pdf: Project report in PDF <br>
 GitHub_Proj10.R: R script
+
+You can view the **Project Report** in HTML by [clicking here]().
